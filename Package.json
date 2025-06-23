@@ -1,0 +1,13 @@
+{
+  "name": "whatsapp-premium-bot",
+  "version": "1.0.0",
+  "description": "Venom-based WhatsApp premium bot with payment integration",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "type": "module",
+  "dependencies": {
+    "venom-bot": "^5.1.0"
+  }
+}
